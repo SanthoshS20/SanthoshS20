@@ -32,13 +32,14 @@
 </br>
 
 ## ⚡ Tools  & Technologies
-<img src="https://img.icons8.com/color/50/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/50/000000/java-coffee-cup-logo--v2.png"/>
-<img src="https://img.icons8.com/color/50/000000/python--v2.png"/>
-<img src="https://img.icons8.com/fluency/50/000000/docker.png"/>
-<img src="https://img.icons8.com/color/50/000000/kubernetes.png"/>
-<img src="https://img.icons8.com/color/50/000000/jira.png"/>
-<img src="https://img.icons8.com/color/50/000000/jenkins.png"/>
-<img src="https://img.icons8.com/color/50/000000/github--v3.png"/>
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
+<img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
+<img src="https://img.icons8.com/color/48/000000/jira.png"/>
+<img src="https://img.icons8.com/color/48/000000/jenkins.png"/>
+<img src="https://img.icons8.com/color/48/000000/github--v3.png"/>
 
 
 </br></br>
