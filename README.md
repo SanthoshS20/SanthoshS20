@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/SanthoshS20?label=Followers&style=social)
 <img alt = "Profile Views" src="https://komarev.com/ghpvc/?username=SanthoshS20&color=brightgreen">  
 
-- 🔭 I’m a Software Engineer working at Genesys
+- 🔭 I’m a Software Test Engineer 
 - 📫 How to reach me: [![Linkedin: Santhosh](https://img.shields.io/badge/-Santhosh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/santhosh220897/)](https://www.linkedin.com/in/santhosh220897/)
 
 </br>
