@@ -1,4 +1,4 @@
-# <b>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Santhosh</b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/304/man-technologist_1f468-200d-1f4bb.png" height=30px width=30px>
+# <b>Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Santhosh</b>
 
 
 ### <p align="center"> <b>Congratulations, you found me on GitHub ! Know more about me 👇</b></p>
