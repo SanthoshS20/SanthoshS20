@@ -11,26 +11,6 @@
 
 </br>
 
-## <b>&#129321;Coding Profiles </b>
-
-
-## <b>&#128526;My GitHub Statistics</b>
-
-![Santhosh GitHub stats](https://github-readme-stats.vercel.app/api?username=SanthoshS20&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=0CC303&icon_color=0CC303&theme=gruvbox&include_all_commits=true)
-
-
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshS20&theme=radical&title_color=F16707&hide_border=true" width="335px" data-canonical->
-
-
-
-</br></br></br></br></br></br></br></br></br></br></br></br></br></br>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SanthoshS20&border=000000&fire=CB0044)](https://git.io/streak-stats)
-
-
-
-</br>
-
 ## ⚡ Tools  & Technologies
 <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v2.png"/>
